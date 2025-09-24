@@ -92,6 +92,14 @@ console.log(typeof undefined);
 alert("Hello" +  " Bill Liu" +  ", welcome to the JavaScript class!");
 
 // Step 12: 
+/*
 let name = "Bill Liu";
 alert("Hello" +  " ${name}" +  ", welcome to the JavaScript class!");
+*/
+
+// Step 13: 
+/*
+let course = "JavaScript";
+alert("Hello" +  " Bill Liu" +  ", welcome to the ${course} class!");
+*/
 
