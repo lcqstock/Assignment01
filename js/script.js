@@ -25,3 +25,16 @@ fullName = "Bill" + " "  + "Liu"
 /*
 let strFirstName, strLastName, strAddress, strCity, strState, nZipCode, intYourAge, strReferralSource, bMayWeContactYou;
 */
+
+// Step 5: Take the 3 of the 9 variables that you created above and demonstrate 3 ways for declaring and assigning values to those variables
+/*
+let strFirstName = "Bill";
+
+let strLastName;
+strLastName = "Liu";
+
+intYourAge = 50;
+*/
+
+
+
