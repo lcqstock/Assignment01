@@ -131,4 +131,11 @@ let y = 20;
 console.log(x + y);
 */
 
+// Step 18
+/*
+let x = 20;
+console.log(x += 20);
+*/
+
+
 
