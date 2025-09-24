@@ -96,13 +96,13 @@ alert("Hello" +  " Bill Liu" +  ", welcome to the JavaScript class!");
 // Step 12: 
 /*
 let name = "Bill Liu";
-alert("Hello" +  " ${name}" +  ", welcome to the JavaScript class!");
+alert("Hello " +  name +  ", welcome to the JavaScript class!");
 */
 
 // Step 13: 
 /*
 let course = "JavaScript";
-alert("Hello" +  " Bill Liu" +  ", welcome to the ${course} class!");
+alert("Hello" +  " Bill Liu" +  ", welcome to the " + course class!");
 */
 
 // Step 14: Rework the above string
@@ -110,3 +110,8 @@ alert("Hello" +  " Bill Liu" +  ", welcome to the ${course} class!");
 alert("Hello Zak Ruvalcaba.\nWelcome to the JavaScript class!");
 */
 
+// Step 15
+/*
+let name = prompt();
+alert("Hello " +  name +  ", welcome to the JavaScript class!");
+*/
