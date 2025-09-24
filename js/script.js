@@ -123,3 +123,12 @@ alert("Hello " +  name +  ", welcome to the JavaScript class!");
 let course = prompt();
 alert("Hello Bill Liu, welcome to the " + course + " class!");
 */
+
+// Step 17
+/*
+let x = 10;
+let y = 20;
+console.log(x + y);
+*/
+
+
