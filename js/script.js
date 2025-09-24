@@ -69,3 +69,23 @@ console.log("Null variable:", nullVariable);
 let undefinedVariable; 
 console.log("Undefined variable:", undefinedVariable);
 
+// Step 10: Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
+/*
+// string
+console.log(typeof "Hello World!");
+
+// number
+console.log(typeof 12345);
+
+// boolean
+console.log(typeof true);
+
+// object  
+console.log(typeof {});
+console.log(typeof null);  
+
+// undefined
+console.log(typeof undefined);
+*/
+
+
