@@ -41,3 +41,16 @@ intYourAge = 50;
 let numPlusStr = 5 + "San Diego";
 document.write(numPlusStr);
 */
+
+// Step 7: Create two variables.
+/*
+    For the first variable, add a Boolean and a string and display the coerced result.
+    For the second variable, add a number and a Boolean and display the coerced result.
+*/
+/*
+let bPlusStr = false + "World";
+document.write("bPlusStr equals " + bPlusStr + "<br>");
+//document.write("\n");
+let numPlusBoolean = 2025 + true;
+document.write("numPlusBoolean equals " + numPlusBoolean + "<br>");
+*/
