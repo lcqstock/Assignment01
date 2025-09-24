@@ -20,3 +20,8 @@ null                        // null literal
 temperature = 68
 fullName = "Bill" + " "  + "Liu"
 */
+
+// Step 4: Declare (but do not assign) 9 variables for the following identifiers: First Name, Last Name, Address, City, State, Zip Code, Your Age, Referral Source, May We Contact You. Use Camel Casing and Hungarian Notation when naming your identifiers
+/*
+let strFirstName, strLastName, strAddress, strCity, strState, nZipCode, intYourAge, strReferralSource, bMayWeContactYou;
+*/
