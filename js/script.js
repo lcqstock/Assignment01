@@ -154,7 +154,10 @@ console.log(x /= 1);
 console.log( 3 > 2 && 10 <= 19);
 */
 
-
+// Step 22
+/*
+console.log( 3 == 2 || 10 !== 10);
+*/
 
 
 
