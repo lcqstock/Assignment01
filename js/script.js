@@ -15,3 +15,8 @@ true                        // boolean literal
 null                        // null literal
 */
 
+// Step 3: Two examples of complex / variable expressions
+/*
+temperature = 68
+fullName = "Bill" + " "  + "Liu"
+*/
