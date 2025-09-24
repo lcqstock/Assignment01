@@ -62,3 +62,10 @@ let someString = 'Who once said, "Only two things are infinite, the universe and
 console.log(someString);
 */
 
+// Step 9: Create a variable that produces a null value in the console window. Then, create a variable that produces an undefined value in the console window.
+let nullVariable = null;
+console.log("Null variable:", nullVariable);
+
+let undefinedVariable; 
+console.log("Undefined variable:", undefinedVariable);
+
