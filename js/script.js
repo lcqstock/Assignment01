@@ -137,5 +137,12 @@ let x = 20;
 console.log(x += 20);
 */
 
+// Step 19
+/*
+let x = 20;
+console.log(x *= 5);
+*/
+
+
 
 
