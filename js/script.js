@@ -149,6 +149,12 @@ let x = 20 % 3;
 console.log(x /= 1);
 */
 
+// Step 21
+/*
+console.log( 3 > 4 && 10 <= -9);
+*/
+
+
 
 
 
