@@ -151,8 +151,10 @@ console.log(x /= 1);
 
 // Step 21
 /*
-console.log( 3 > 4 && 10 <= -9);
+console.log( 3 > 2 && 10 <= 19);
 */
+
+
 
 
 
