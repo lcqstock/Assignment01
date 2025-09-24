@@ -89,5 +89,5 @@ console.log(typeof undefined);
 */
 
 // Step 11: Within an alert box, use the concatenation operator (+) to display text in the alert box
-alert("Hello Zak Ruvalcaba" + "," + " " + "welcome to the JavaScript class!");
+alert("Hello" +  " Bill Liu" +  ", welcome to the JavaScript class!");
 
