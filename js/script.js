@@ -63,11 +63,13 @@ console.log(someString);
 */
 
 // Step 9: Create a variable that produces a null value in the console window. Then, create a variable that produces an undefined value in the console window.
+/*
 let nullVariable = null;
 console.log("Null variable:", nullVariable);
 
 let undefinedVariable; 
 console.log("Undefined variable:", undefinedVariable);
+*/
 
 // Step 10: Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
 /*
@@ -114,4 +116,10 @@ alert("Hello Zak Ruvalcaba.\nWelcome to the JavaScript class!");
 /*
 let name = prompt();
 alert("Hello " +  name +  ", welcome to the JavaScript class!");
+*/
+
+// Step 16
+/*
+let course = prompt();
+alert("Hello Bill Liu, welcome to the " + course + " class!");
 */
