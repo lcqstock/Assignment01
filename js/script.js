@@ -36,5 +36,8 @@ strLastName = "Liu";
 intYourAge = 50;
 */
 
-
-
+// Step 6: Create a variable. Add a number and a string and display the coerced result in the browser’s console window.
+/*
+let numPlusStr = 5 + "San Diego";
+document.write(numPlusStr);
+*/
