@@ -54,3 +54,11 @@ document.write("bPlusStr equals " + bPlusStr + "<br>");
 let numPlusBoolean = 2025 + true;
 document.write("numPlusBoolean equals " + numPlusBoolean + "<br>");
 */
+
+// Step 8: Is the following string literal valid? If not, how would you fix it?
+// String Escape Sequences
+/*
+let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
+console.log(someString);
+*/
+
